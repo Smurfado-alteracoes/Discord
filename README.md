@@ -2,7 +2,7 @@
 <h1># Discord</h1>
 <p><h2> Temas, plugins etc </h2></p>
 
-<a href="https://ibb.co/QYKppr2"><img src="https://i.ibb.co/p4LbbJt/Captura-de-ecr-2021-01-30-203915.jpg" alt="Captura-de-ecr-2021-01-30-203915" border="0"></a>
+<center><a href="https://ibb.co/QYKppr2"><img src="https://i.ibb.co/p4LbbJt/Captura-de-ecr-2021-01-30-203915.jpg" alt="Captura-de-ecr-2021-01-30-203915" border="0"></a></center>
 
 Na pasta "Themes" encontra se o ficheiro que tem ser colocado na pasta "...\BetterDiscord\themes" para aceder a mesma basta entrar no discord, configurações, fazer scroll até ao fim, do lado direito vai aparecer opção "themes", clicar, em cima aparece um botão " Open Theme Folder " clica e vai diretamente para pasta pretendida.
 <p> Após estar na pasta basta arrastar o ficheiro para dentro da mesma. </p>

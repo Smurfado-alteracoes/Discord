@@ -12,7 +12,8 @@ Visto que já esta dentro da pasta "themes" basta recuar para pasta anterior e e
 
 <p> Os ficheiros plugins contem seguintes opções adicionais ao discord: </p>
 
-<p> 1 - Game Activity Toggle - Serve para tirar o som da atividade do jogo sem ter que ir as opções do Windows ou ao proprio jogo </p>
+<p> 1 - Game Activity Toggle - Serve para tirar o som da atividade do jogo sem ter que ir as opções do Windows ou ao proprio jogo
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/7tHSJBK/som-game.jpg" alt="som-game" border="0"></a></p>
 <p> 2 - Joined At Date -  Aparece no perfil da pessoa em que data se juntou ao discord em questão </p>
 <p> 3 - Quick Mute Channels - Serve para dar mute apenas aquela sala </p>
 <p> 4 - Voice Users Counter - Aparece quantas pessoas estão dentro da sala que se encontrar </p>

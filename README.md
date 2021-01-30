@@ -1,7 +1,10 @@
 <html>
-  
+
 <h1># Discord</h1>
-<p><h2> Temas, plugins etc </h2></p>
+<p><h2> Temas, plugins etc  </h2></p>
+
+<p><h2> Para efetuar alteração do tema tem que instalar App BandagedBD disponivel em cima </h2></p>
+
 
 <a href="https://ibb.co/QYKppr2"><img src="https://i.ibb.co/p4LbbJt/Captura-de-ecr-2021-01-30-203915.jpg" alt="Captura-de-ecr-2021-01-30-203915" border="0"></a>
 

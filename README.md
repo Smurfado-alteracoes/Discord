@@ -2,10 +2,12 @@
 <h1># Discord</h1>
 <p><h2> Temas, plugins etc </h2></p>
 
+<img src="https://ibb.co/QYKppr2" alt="Imagem">
+
 Na pasta "Themes" encontra se o ficheiro que tem ser colocado na pasta "...\BetterDiscord\themes" para aceder a mesma basta entrar no discord, configurações, fazer scroll até ao fim, do lado direito vai aparecer opção "themes", clicar, em cima aparece um botão " Open Theme Folder " clica e vai diretamente para pasta pretendida.
 <p> Após estar na pasta basta arrastar o ficheiro para dentro da mesma. </p>
 
-Visto que já esta dentro da pasta "themes" basta recuar para pasta anterior e entrar na pasta "plugins", caso tenha fechado a pasta, pode repetir mesmo processo indicado anteriormente mas em vez de entrar na opção "themes" entra na opção "plugins".
+Visto que já esta dentro da pasta "themes" basta recuar para pasta anterior e entrar na pasta "plugins" "...\BetterDiscord\plugins" onde deve colocar os ficheiros plugins, caso tenha fechado a pasta, pode repetir mesmo processo indicado anteriormente mas em vez de entrar na opção "themes" entra na opção "plugins".
 <p> Estando dentro da pasta "plugins" é só arrastar os ficheiros para dentro dessa pasta. </p>
 
 <p> Os ficheiros plugins contem seguintes opções adicionais ao discord: </p>
@@ -16,3 +18,4 @@ Visto que já esta dentro da pasta "themes" basta recuar para pasta anterior e e
 <p> 4 - Voice Users Counter - Aparece quantas pessoas estão dentro da sala que se encontrar </p>
 <p> 5 - Who Reacted - Mostra quem reagio a mensagem enviada </p>
 </html>
+

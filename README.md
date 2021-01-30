@@ -9,7 +9,8 @@ Visto que já esta dentro da pasta "themes" basta recuar para pasta anterior e e
 <p> Estando dentro da pasta "plugins" é só arrastar os ficheiros para dentro dessa pasta. </p>
 
 <p> Os ficheiros plugins contem seguintes opções adicionais ao discord: </p>
-
+<p></p>
+<p></p>
 <p> 1 - Game Activity Toggle - Serve para tirar o som da atividade do jogo sem ter que ir as opções do Windows ou ao proprio jogo </p>
 <p> 2 - Joined At Date -  Aparece no perfil da pessoa em que data se juntou ao discord em questão </p>
 <p> 3 - Quick Mute Channels - Serve para dar mute apenas aquela sala </p>

@@ -1,6 +1,6 @@
 <html>
-<h2># Discord</h2>
-<p> Temas, plugins etc </p>
+<h1># Discord</h1>
+<p><h2> Temas, plugins etc </h2></p>
 
 Na pasta "Themes" encontra se o ficheiro que tem ser colocado na pasta "...\BetterDiscord\themes" para aceder a mesma basta entrar no discord, configurações, fazer scroll até ao fim, do lado direito vai aparecer opção "themes", clicar, em cima aparece um botão " Open Theme Folder " clica e vai diretamente para pasta pretendida.
 <p> Após estar na pasta basta arrastar o ficheiro para dentro da mesma. </p>

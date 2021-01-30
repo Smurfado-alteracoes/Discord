@@ -1,3 +1,4 @@
+<html>
 # Discord
 Temas, plugins etc
 
@@ -11,8 +12,9 @@ Estando dentro da pasta "plugins" é só arrastar os ficheiros para dentro dessa
 
 Os ficheiros plugins contem seguintes opções adicionais ao discord:
 
-1 - Game Activity Toggle - Serve para tirar o som da atividade do jogo sem ter que ir as opções do Windows ou ao proprio jogo
+<p>1 - Game Activity Toggle - Serve para tirar o som da atividade do jogo sem ter que ir as opções do Windows ou ao proprio jogo</p>
 2 - Joined At Date -  Aparece no perfil da pessoa em que data se juntou ao discord em questão
 3 - Quick Mute Channels - Serve para dar mute apenas aquela sala
 4 - Voice Users Counter - Aparece quantas pessoas estão dentro da sala que se encontrar
 5 - Who Reacted - Mostra quem reagio a mensagem enviada
+</html>
